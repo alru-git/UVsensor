@@ -5,11 +5,11 @@ Messung des UV-Index mit UVM-30A Sensor
 
 Genutzte Technologien:
 
-Arduino (Controller für die Sensoren, https://store.arduino.cc/arduino-pro-mini)
+- Arduino (Controller für die Sensoren, https://store.arduino.cc/arduino-pro-mini)
 
-Mysensors (Radio Gateway, https://www.mysensors.org/)
+- Mysensors (Radio Gateway, https://www.mysensors.org/)
 
-Fhem (Hausautomation Controller, https://fhem.de/)
+- Fhem (Hausautomation Controller, https://fhem.de/)
 
 
 Inhalt:
