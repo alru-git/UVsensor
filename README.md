@@ -1,5 +1,6 @@
 # UVsensor
 Messung des UV-Index mit UVM-30A Sensor
+(Es wird nicht der Code von Mysensors benutzt!)
 
 
 Genutzte Technologien:
