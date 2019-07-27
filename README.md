@@ -14,6 +14,6 @@ Genutzte Technologien:
 
 Inhalt:
 
-/docs: Dokumentation des Projektes
+/docs: Dokumentation des Projektes (Zusammenfassung: UVsensor_doku.pdf)
 
 /src: Code
